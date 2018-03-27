@@ -1,0 +1,8 @@
+chay file capture_video.py de tach frame co mat nguoi
+check cac file out put de chon ra cac frame detect chuan, xoa cac frame sai trong file excel luu chi so frame co face (face_detected.xls)
+chay file face_detected.py de lay stt frame co face trong file excel, loai cac frame trong cung 1s, va khoanh face cac frame day
+
+
+api Microsoft 
+chay file facedt_microsoft_api.ipynb, sua path_to_file de chon anh
+nhin chung api detect kem hon opencv
